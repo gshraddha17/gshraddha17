@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Gulati</h1>
 <h3 align="center">A passionate developer and coder from the Indian Institute of Information Technology, Lucknow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gshraddha17&label=Profile%20views&color=0e75b6&style=flat" alt="gshraddha17" /> </p>
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshraddha17&label=Profile%20views&color=0e75b6&style=flat" alt="gshraddha17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gshraddha17" alt="gshraddha17" /></a> </p>
 
