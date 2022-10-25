@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshraddha17&label=Profile%20views&color=0e75b6&style=flat" alt="gshraddha17" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gshraddha17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gshraddha17&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **lcs2021021@iiitl.ac.in**
 
