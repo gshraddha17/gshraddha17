@@ -30,3 +30,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gshraddha17&theme=blue-green"/>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gshraddha17&theme=blue-green" alt="gshraddha17" /></p>
+[![@gshraddha_17's Holopin board](https://holopin.me/gshraddha_17)](https://holopin.io/@gshraddha_17)
