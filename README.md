@@ -13,8 +13,9 @@
 <a href="https://kaggle.com/gshraddha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gshraddha17" height="30" width="40" /></a>
 <a href="https://instagram.com/gshraddha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gshraddha_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shraddha_id2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shraddha_id2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gshraddha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gshraddha_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lcs2021021_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lcs2021021_iiitl" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shraddha__gulati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shraddha__gulati" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shraddha_1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="lcs2021021_iiitl" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shraddha_1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lcs2021021_iiitl" height="30" width="40" /></a>
 <a href="https://discord.gg/gshraddha_#8247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gshraddha_#8247" height="30" width="40" /></a>
 </p>
 
